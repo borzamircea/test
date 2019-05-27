@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 test2
 
 test
 Edit1
+=======
+test
+>>>>>>> 56b17b669c7ff5dabf71a84bc6563996a85c0d0a
